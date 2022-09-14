@@ -33,7 +33,7 @@ import (
 	"github.com/knieriem/gointernal/cmd/go/modfetch/codehost"
 	"github.com/knieriem/gointernal/cmd/go/work"
 
-	"t9rsys.com/tools/pt/internal/diff"
+	"github.com/knieriem/pt/internal/diff"
 )
 
 type conf struct {

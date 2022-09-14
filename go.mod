@@ -1,4 +1,4 @@
-module t9rsys.com/tools/pt
+module github.com/knieriem/pt
 
 go 1.18
 
@@ -8,7 +8,6 @@ require (
 	github.com/knieriem/fsutil v0.2.0
 	github.com/knieriem/gointernal v0.2.0-pre2
 	github.com/knieriem/tool v0.1.0
-	golang.org/x/tools v0.0.0-20200612220849-54c614fe050c
 )
 
 require (
